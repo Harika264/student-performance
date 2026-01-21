@@ -1,0 +1,5 @@
+{
+  "name": "AI-Based Student Performance Predictor",
+  "description": "A comprehensive React-based dashboard that simulates a Python machine learning backend for predicting student scores. It features data visualization, model training simulations, and real-time prediction using linear regression logic.",
+  "requestFramePermissions": []
+}
